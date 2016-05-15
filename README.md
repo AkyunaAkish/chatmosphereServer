@@ -6,6 +6,7 @@
 $ npm install
 $ createdb chatmosphere
 $ knex migrate:latest
+configure a git-ignored .env file using .env.example as a reference
 $ gulp
 ```
 
