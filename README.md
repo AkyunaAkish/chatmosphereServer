@@ -1,4 +1,5 @@
 # Chatmosphere Server Side
+## WIP
 
 * Setup and installation (you'll need to be running the client-side application in order for the server-side to work properly)
 
